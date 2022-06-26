@@ -1,0 +1,31 @@
+Index: .idea/csv-plugin.xml
+===================================================================
+diff --git a/.idea/csv-plugin.xml b/.idea/csv-plugin.xml
+deleted file mode 100644
+--- a/.idea/csv-plugin.xml	(revision 3476d3a2cb75c40256350f8cfaae7fb83ed38d36)
++++ /dev/null	(revision 3476d3a2cb75c40256350f8cfaae7fb83ed38d36)
+@@ -1,23 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="CsvFileAttributes">
+-    <option name="attributeMap">
+-      <map>
+-        <entry key="/Seq2Seq_MetaData/javascript_Sample_Dataset.csv">
+-          <value>
+-            <Attribute>
+-              <option name="separator" value="&#9;" />
+-            </Attribute>
+-          </value>
+-        </entry>
+-        <entry key="/Seq2Seq_MetaData/javascript_Test_Dataset.csv">
+-          <value>
+-            <Attribute>
+-              <option name="separator" value="," />
+-            </Attribute>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-</project>
+\ No newline at end of file
