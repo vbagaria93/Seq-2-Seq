@@ -2,4 +2,4 @@
 Sequence to Sequence NLP models
 
 The Dataset can be downloaded from here: 
-https://drive.google.com/file/d/1fA8xWbzknvxA2K_O5xkvAAMFBCRbYaKp/view?usp=sharing
+https://drive.google.com/drive/folders/1_6k4oMTXMBtDD7hkk6mVxNviaRokj8aB?usp=sharing
